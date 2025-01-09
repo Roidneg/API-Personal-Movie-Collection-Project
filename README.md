@@ -1,6 +1,8 @@
 # Movie Collection Analysis
 
 ## Project Overview
+This project initially began with exploring data using the IMDb API to fetch metadata for movies. However, the approach shifted to leveraging a curated Google Sheet containing my personal collection for better alignment with my workflow.
+
 This project explores patterns and trends within my personal movie collection, spanning a few hundred titles. The focus is on analyzing key attributes such as **Genre**, **Release Year**, **Release Decade**, and **Format** (e.g., TV, Movie, Anime). The dataset is derived from a curated Google Sheet of my collection.
 
 Through data analysis and visualizations, the project aims to highlight:
